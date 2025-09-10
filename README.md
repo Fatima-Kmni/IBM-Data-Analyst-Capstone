@@ -1,23 +1,14 @@
 # IBM Data Analyst Capstone Project
 
-This repository has my work for the IBM Data Analyst Professional Certificate Capstone Project on Coursera.  
-
-Inside the repo:
-- labs → all Jupyter notebooks from Lab01 to Lab23. They cover things like collecting data, cleaning it, exploratory analysis, and making visualizations.  
-- final → my final presentation in PDF and PowerPoint format.  
-- data → the survey datasets I worked with (not uploaded here because of the size, they are available from Coursera).  
-
-Tools and methods I used:
-Python (Pandas, Matplotlib, Seaborn, Scikit-learn), SQL, IBM Cognos Analytics, plus data wrangling, visualization, and regression models.  
-
-About the project:  
-The goal was to explore data from the Stack Overflow Developer Survey and find what skills are most in demand. I cleaned and analyzed the data, built charts and dashboards, and then put together a presentation to share the results.  
-
-Some main points I found:  
-- Python and SQL are the top programming languages.  
-- MySQL and PostgreSQL are the most used databases.  
-- Jupyter Notebook and VS Code are the most common IDEs.  
-- Cloud and AI-related skills are becoming more important.  
-
-This project brought together everything I practiced in the certificate: collecting, cleaning, analyzing, visualizing, and presenting data.
+This repo has my work for the IBM Data Analyst Professional Certificate Capstone on Coursera.
+It includes:
+- Jupyter notebooks from Lab01 to Lab23, where I practiced collecting data, cleaning it, exploring, and making visualizations.  
+- My final presentation (PDF and PowerPoint).  
+- The survey datasets I used. They are not uploaded here because of size, but they are available from Coursera.
+For this project I mainly worked with Python (Pandas, Matplotlib, Seaborn, Scikit-learn), SQL, and IBM Cognos Analytics.  
+The goal was to analyze data from the Stack Overflow Developer Survey and see what programming skills are most in demand. I cleaned and prepared the data, created visualizations and dashboards, and then built a presentation to share the findings.
+Some of the main insights:
+Python and SQL are leading programming languages, MySQL and PostgreSQL are common databases, Jupyter Notebook and VS Code are the most used IDEs, and cloud and AI-related skills are rising in importance.
+This project was a good chance for me to bring together everything from the certificate: collecting, cleaning, analyzing, visualizing, and presenting data in a clear way.
+Overall this project was a good way for me to practice what I learned and show how I can take a dataset from start to finish.
 
